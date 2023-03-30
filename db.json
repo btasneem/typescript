@@ -1,14 +1,31 @@
-[ 
-{
-    "userId": 1,
+"mobileDetails":
+[
+  {
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "ABC"
-},
-{
-    "userId": 1,
+    "title": "Iphone 16",
+    "Description": "Apple IPhone",
+    "Brand": "Apple",
+    "category": "Smart Phone"
+  },
+  {
     "id": 2,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "ABC" 
-}
+    "title": "Samsung",
+    "Description": "Samsung",
+    "Brand": "Samsung",
+    "category": "Smart Phone"
+  },
+  {
+    "id": 3,
+    "title": "Oppo",
+    "Description": "Oppo",
+    "Brand": "Oppo",
+    "category": "Smart Phone"
+  },
+  {
+    "id": 4,
+    "title": "Redme",
+    "Description": "Redme",
+    "Brand": "Samsung",
+    "category": "Smart Phone"
+  }
 ]
